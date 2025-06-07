@@ -1,4 +1,4 @@
-# Stock Screener Android App
+# Stock Screener Android App by Melvin Tang
 
 ## How To Set Up?
 ## Setup Instructions
