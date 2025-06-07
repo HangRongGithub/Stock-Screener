@@ -63,10 +63,11 @@ MainActivity
 - Real-time push notifications
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/5c629e27-a0ed-4e12-8724-c7a3f57a627b)
-![image](https://github.com/user-attachments/assets/b542aeb5-1d81-4b9a-93b6-66a9a4747edf)
-![image](https://github.com/user-attachments/assets/12762bc6-cfb5-479f-b6ac-9ed7ad03ca5e)
-![image](https://github.com/user-attachments/assets/51605a9b-891b-46ef-ba77-711f17c9ab81)
+<img src="https://github.com/user-attachments/assets/5c629e27-a0ed-4e12-8724-c7a3f57a627b" width="400" />
+<img src="https://github.com/user-attachments/assets/b542aeb5-1d81-4b9a-93b6-66a9a4747edf" width="400" />
+<img src="https://github.com/user-attachments/assets/12762bc6-cfb5-479f-b6ac-9ed7ad03ca5e" width="400" />
+<img src="https://github.com/user-attachments/assets/51605a9b-891b-46ef-ba77-711f17c9ab81" width="400" />
+
 
 
 
