@@ -5,6 +5,7 @@
 
 1. Download ZIP file & Unzip
 2. Open in Android Studio Meerkat Feature Drop
+3. Import the file
 3. Build and run the application
 
 ## Features
