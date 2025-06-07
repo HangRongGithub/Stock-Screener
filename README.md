@@ -51,8 +51,6 @@ MainActivity
 - Pull-to-refresh implementation
 
 **Medium-term:**
-- Room database for offline storage
-- Repository pattern with data caching
 - MVVM architecture with ViewModels
 - Notification system for price alerts
 
