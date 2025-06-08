@@ -31,13 +31,7 @@ MainActivity
 └── SettingsFragment (dark/light mode toggle)
 ```
 
-## Trade-offs & Design Decisions
-
 ### Current Approach
-**Pros:**
-- Simple, maintainable structure
-- Fast development and easy debugging
-
 **Limitations:**
 - Static JSON data (no real-time updates)
 - Basic error handling
