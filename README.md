@@ -2,11 +2,11 @@
 
 ## How To Set Up?
 ## Setup Instructions
-
-1. Download file
-2. Open in Android Studio Meerkat Feature Drop
-3. Import the file
-3. Build and run the application
+1. Download & Open Android Studio Meerkat Feature Drop
+2. Start a new Empty Kotlin Project & Press "Finish"
+3. Click on the project name & Search for "Clone Repository"
+4. Choose version control "Git" & Paste the repository URL
+5. Build and run the application
 
 ## Features
 
