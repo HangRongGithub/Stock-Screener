@@ -3,7 +3,7 @@
 ## How To Set Up?
 ## Setup Instructions
 
-1. Download ZIP file & Unzip
+1. Download file
 2. Open in Android Studio Meerkat Feature Drop
 3. Import the file
 3. Build and run the application
